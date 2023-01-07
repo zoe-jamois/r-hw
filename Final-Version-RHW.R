@@ -1,7 +1,7 @@
 ##R-HOMEWORK
 ## ALEXANDER NILSSON, ZOE JAMOIS, NICOLAS SCWAIGER
 
-setwd("/Users/alecnilsson/Documents/R-Homework")
+setwd("/Users/zoejamois/Documents/R Programming/HW")
 
 ## Installing and library packages
 install.packages("sf")
